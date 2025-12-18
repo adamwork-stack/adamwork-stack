@@ -1,11 +1,11 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Jeremy, a self-motivated tech enthusiast and full stack web developer.
+I'm Adam, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/JM010101">Jeremy Meek</a>
+💻 full stack developer <a href="https://github.com/JM010101">Adam Wong</a>
 </h4>
 
 
